@@ -6,7 +6,7 @@
 
 ## Dashboard Preview
 
-![Hotel Performance Analytics Dashboard](Hotel%20Performance%20Analytics%20Dashboard.png)
+![Hotel Performance Analytics Dashboard](C:\Users\ANMOL HAJNALE\Desktop\New folder\Review Project)
 
 ---
 
