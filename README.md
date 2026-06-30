@@ -4,6 +4,12 @@
 
 ---
 
+## Dashboard Preview
+
+![Hotel Performance Analytics Dashboard](Hotel%20Performance%20Analytics%20Dashboard.png)
+
+---
+
 ## Project Overview
 
 A hotel chain had data scattered across 6 separate files on AWS S3 with no structured pipeline to consolidate and analyze it. Management had no way to answer basic business questions like which hotels are performing well or which guests are unhappy.
